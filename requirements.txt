@@ -24,7 +24,7 @@ pyOpenSSL==17.5.0
 PyYAML==3.12
 queuelib==1.5.0
 requests==2.18.4
-Scrapy==1.5.0
+Scrapy==2.6.1
 service-identity==17.0.0
 six==1.11.0
 Twisted==16.4.1
